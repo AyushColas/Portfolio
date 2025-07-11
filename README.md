@@ -1,7 +1,7 @@
 # <div style="text-align:center; color:#4A90E2;">Project Title</div>
 
 <p align="center">
-  <img src="/projects/Site.png" alt="Project Screenshot" />
+  <img src="public/projects/Site.png" alt="Project Screenshot" width="600" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
 </p>
 
 ---
