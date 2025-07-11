@@ -130,7 +130,7 @@ export const ContactSection = () => {
                         className="space-y-6"
                         >
                         <input type="hidden" name="_captcha" value="true" />
-                        <input type="hidden" name="_next" value="http://localhost:5173/#contact"></input>
+                        <input type="hidden" name="_next" value="https://ayushcolas.github.io/Portfolio/#contact"></input>
                         <div>
                         <label htmlFor="name" className="block text-sm font-medium mb-2">
                             Your Name

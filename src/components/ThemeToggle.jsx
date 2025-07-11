@@ -38,8 +38,6 @@ export const ThemeToggle = () => {
         "md:bottom-auto",        // Remove bottom on desktop/laptop
         "focus:outline-hidden"
         )}
-
-
     >
       {isDarkMode ? (
         <Sun className="h-6 w-6 text-yellow-300" />
