@@ -47,3 +47,16 @@ npm install
 
 # Start the development server
 npm start
+```
+
+---
+
+## Deployment
+To create a production build for deployment:
+
+```bash
+npm run build
+```
+
+You can deploy the build folder on platforms like GitHub Pages, Netlify, or Vercel.
+
