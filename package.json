@@ -5,14 +5,15 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",
-  "preview": "vite preview",
-  "lint": "eslint ."
-},
+    "dev": "vite",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "@radix-ui/react-toast": "^1.2.14",
     "@tailwindcss/vite": "^4.1.11",
     "class-variance-authority": "^0.7.1",
