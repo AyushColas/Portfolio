@@ -27,7 +27,7 @@ export const AboutSection =() => {
                         <a href="#contact" className="fancy-button">
                             Get in Touch
                         </a>
-                        <a href="public/Resume/Ayush SE.pdf"
+                        <a href="Resume/Ayush SE.pdf"
                         target="_blank"
                         rel="noopener noreferrer" 
                         className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
