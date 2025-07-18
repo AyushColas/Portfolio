@@ -13,10 +13,10 @@ const projects = [
   },
   {
     id: 2,
-    title: "Full-Stack Job Portal",
+    title: "Dev.Blog",
     description:
-      "Created and launched a scalable platform supporting 100+ concurrent users, where job seekers and recruiters interact securely through dedicated interfaces",
-    Image: "projects/2.jpg",
+      "Developed dev.Blog, a scalable blogging platform using Django and React with JWT authentication. Features markdown support and handles 100+ concurrent users.",
+    Image: "projects/2.png",
     tags: ["Django REST Framework", "JWT", "React.js", "Docker", "Github Actions"],
     githubUrl: "#",
     demoUrl: "#",
